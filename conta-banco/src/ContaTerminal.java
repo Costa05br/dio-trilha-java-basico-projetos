@@ -1,3 +1,8 @@
+/**
+ * @author João Lucas Gomes Costa
+ * Projeto proposto pela DIO. Segue o meu projeto:
+ */
+
 import java.util.Scanner;
 
 public class ContaTerminal {
