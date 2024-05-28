@@ -15,7 +15,7 @@ public class ContaTerminal {
         String nomeCompleto;
         int conta;
         double saldo;
-
+ 
         //Exibir as mensagens para o nosso usuário e guadar informação nas variáveis:
 
         System.out.println("Digite o seu nome completo: ");
